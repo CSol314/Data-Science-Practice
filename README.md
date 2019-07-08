@@ -12,4 +12,4 @@ I participated in Kaggle's "SQL Summer Camp" and the corresponding exercises are
 
 ## HackerRank SQL Practice
 
-To further improve my experience with SQL, I have been completing HackerRank SQL challenges. This is organized into folders depending on category (ex: "Basic Select") with the exercises included in the corresponding folder.
+To further improve my experience with SQL, I have been completing HackerRank SQL challenges. This is organized into folders depending on category (ex: "Basic Select") with the exercises included in the corresponding folder. All implementations are in MySQL.
