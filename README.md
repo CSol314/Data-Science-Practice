@@ -6,6 +6,10 @@ This repository was created solely for the sake of learning and reference for to
 
 This repository is a collection of my implementations of the guided projects from Dataquest.io.
 
-## SQL Practice
+## Kaggle SQL Practice
 
 I participated in Kaggle's "SQL Summer Camp" and the corresponding exercises are included here.
+
+## HackerRank SQL Practice
+
+To further improve my experience with SQL, I have been completing HackerRank SQL challenges. This is organized into folders depending on category (ex: "Basic Select") with the exercises included in the corresponding folder.
